@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Battle Symphony",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-01-13T17:34:12.960029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Battle Symphony",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_Battle_Symphony_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Battle Symphony",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/02_Battle_Symphony_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Battle Symphony (Official Instrumental)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/03_Battle_Symphony_(Official_Instrumental)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Battle Symphony (One More Light Live)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/04_Battle_Symphony_(One_More_Light_Live)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Battle Symphony (Instrumental)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/05_Battle_Symphony_(Instrumental)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Battle Symphony (Live)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/06_Battle_Symphony_(Live)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Battle Symphony",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/07_Battle_Symphony_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Battle Symphony",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/08_Battle_Symphony_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Battle Symphony",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Battle_Symphony_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Linkin Park - Battle Symphony",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_Linkin_Park_-_Battle_Symphony_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Battle Symphony",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_Battle_Symphony_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Battle Symphony",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_Battle_Symphony_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Battle Symphony",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/13_Battle_Symphony_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Battle Symphony (One More Light Live) (One More Light Live)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_Battle_Symphony_(One_More_Light_Live)_(One_More_Light_Live)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Battle Symphony (Official Lyric Video) - Linkin Park",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/15_Battle_Symphony_(Official_Lyric_Video)_-_Linkin_Park_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Battle Symphony",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/16_Battle_Symphony_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Battle Symphony",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/17_Battle_Symphony_Linkin_Park.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Battle Symphony",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_Battle_Symphony_Linkin_Park.txt"
+    }
+  ]
+}
